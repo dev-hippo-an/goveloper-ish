@@ -1,1 +1,4 @@
-package goveloper_ish
+package main
+
+func main() {
+}
